@@ -1,0 +1,1 @@
+This project presents a deep learning approach for multi-class classification of human blood groups using fingerprint image data. The model is trained to classify into various blood groups (e.g., A+, A−, B+, etc.) based on biometric patterns, aiming to support medical and biometric applications.
